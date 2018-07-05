@@ -7,7 +7,7 @@
 
 ## !USE TEXT THEME
 theme: jekyll-text-theme
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: xinuswang/jekyll-TeXt-theme
 #
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
@@ -105,7 +105,7 @@ sources: # bootcdn (default), unpkg
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
@@ -114,12 +114,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    clientID    : "Iv1.a818393303c7f825" # GitHub Application Client ID
+    clientSecret: "d50bb8b1c22eea2b3f9a1ed261e1a462a431f08c" # GitHub Application Client Secret
+    repository  : xinuswang/xinuswang.github.io # GitHub repo
+    owner       : xinuswang # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      - xinus # - your GitHub Id
 
 
 ## => Pageview
@@ -129,9 +129,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : PmXs4I7x4DOqNQkrAJ7x8ya5-gzGzoHsz # LeanCloud App id
-    app_key   : oD7oEtep5as5xguofO1wlanV # LeanCloud App key
-    app_class : Blog # LeanCloud App class
+    app_id    : "PmXs4I7x4DOqNQkrAJ7x8ya5-gzGzoHsz" # LeanCloud App id
+    app_key   : "oD7oEtep5as5xguofO1wlanV" # LeanCloud App key
+    app_class : "Blog" # LeanCloud App class
 
 
 ## => Analytics
