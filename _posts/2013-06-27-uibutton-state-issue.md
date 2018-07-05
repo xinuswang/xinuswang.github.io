@@ -1,6 +1,7 @@
 ---
 title: UIButton设置了UIControlStateSelected和UIControlStateHighlighted状态的图片点击会闪烁的解决方案
 date: 2013-06-27 17:59:17
+key: 2013-06-27-17-59-17
 tags:
 - uibutton
 categories:

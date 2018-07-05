@@ -1,6 +1,7 @@
 ---
 title: 部署Qt应用程序
 date: 2017-05-15 17:49:46
+key: 2017-05-15-17-49-46
 tags:
 - deploy
 categories:

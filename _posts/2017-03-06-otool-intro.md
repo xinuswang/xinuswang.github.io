@@ -1,6 +1,7 @@
 ---
 title: macOS下面查看执行文件依赖信息
 date: 2017-03-06 14:49:39
+key: 2017-03-06-14-49-39
 tags:
 - otool
 categories:

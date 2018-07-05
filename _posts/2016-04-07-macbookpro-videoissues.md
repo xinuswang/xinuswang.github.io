@@ -1,6 +1,7 @@
 ---
 title: 遭遇苹果的显卡门
 date: 2016-04-07 10:44:42
+key: 2016-04-07-10-44-42
 tags:
 - macbookpro
 categories:

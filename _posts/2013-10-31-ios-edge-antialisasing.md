@@ -1,6 +1,7 @@
 ---
 title: iOS抗锯齿的方式
 date: 2013-10-31 16:07:01
+key: 2013-10-31-16-07-01
 tags:
 - render
 - antialisasing

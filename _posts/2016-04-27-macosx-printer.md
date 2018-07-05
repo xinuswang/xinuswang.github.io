@@ -1,6 +1,7 @@
 ---
 title: Mac系统连接Windows打印机
 date: 2016-04-27 09:23:03
+key: 2016-04-27-09-23-03
 tags:
 - printer
 categories:

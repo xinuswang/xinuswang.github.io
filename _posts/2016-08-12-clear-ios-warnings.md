@@ -1,6 +1,7 @@
 ---
 title: 清理iOS工程中的Warnings
 date: 2016-08-12 10:34:37
+key: 2016-08-12-10-34-37
 tags:
 - warnings
 categories:

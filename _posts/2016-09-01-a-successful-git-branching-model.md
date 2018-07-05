@@ -1,6 +1,7 @@
 ---
 title: 一个成功的Git分支管理模型
 date: 2016-09-01 18:02:11
+key: 2016-09-01-18-02-11
 tags:
 - git
 categories:

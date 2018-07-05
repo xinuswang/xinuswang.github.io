@@ -1,6 +1,7 @@
 ---
 title: WeiboSDK授权登录的问题
 date: 2016-04-13 14:51:32
+key: 2016-04-13-14-51-32
 tags:
 - weibo
 - authorization

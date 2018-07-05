@@ -1,6 +1,7 @@
 ---
 title: 不忘初心 淡然前行
 date: 2016-04-06 23:49:55
+key: 2016-04-06-23-49-55
 tags:
 categories:
 - notes

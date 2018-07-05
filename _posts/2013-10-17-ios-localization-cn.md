@@ -1,6 +1,7 @@
 ---
 title: iOS系统控件显示中文
 date: 2013-10-17 10:19:24
+key: 2013-10-17-10-19-24
 tags:
 - localization
 categories:

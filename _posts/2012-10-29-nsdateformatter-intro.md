@@ -1,7 +1,7 @@
 ---
 title: NSDateFormatter格式详细列表一览
-key: 2012-10-29-16-13-21
 date: 2012-10-29 16:13:21
+key: 2012-10-29-16-13-21
 tags:
 - nsdateformatter
 categories:

@@ -1,6 +1,7 @@
 ---
 title: 在XCode 8 中支持iOS 7 设备调试
 date: 2016-10-13 16:49:52
+key: 2016-10-13-16-49-52
 tags:
 - xcode8
 categories:
