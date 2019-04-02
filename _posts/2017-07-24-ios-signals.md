@@ -3,10 +3,10 @@ title: iOS崩溃信号速查
 date: 2017-07-24 11:29:00
 key: 2017-07-24-11-29-00
 tags:
-- signal
-- crash
+- Signal
+- Crash
 categories:
-- ios
+- iOS
 ---
 
 iOS崩溃信号定义如下：

@@ -7,7 +7,7 @@ tags:
 - dyld
 - install_name_tool
 categories:
-- macos
+- MacOS
 ---
 
 ## 前言

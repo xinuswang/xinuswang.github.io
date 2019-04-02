@@ -3,10 +3,10 @@ title: 糟糕的 [@[] mutableCopy] 和 [@{} mutableCopy]
 date: 2017-01-11 16:32:41
 key: 2017-01-11-16-32-41
 tags:
-- objc
-- mutablecopy
+- ObjC
+- MutableCopy
 categories:
-- ios
+- iOS
 ---
 
 ## 糟糕的写法

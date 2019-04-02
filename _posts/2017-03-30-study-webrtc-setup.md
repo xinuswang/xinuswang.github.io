@@ -3,11 +3,11 @@ title: WebRTC学习笔记（1）- Win/Linux/macOS环境编译
 date: 2017-03-30 12:18:03
 key: 2017-03-30-12-18-03
 tags:
-- chromium
-- ninja
+- Chromium
+- Ninja
 - gclient
 categories:
-- webrtc
+- WebRtc
 ---
 
 ## 准备工作

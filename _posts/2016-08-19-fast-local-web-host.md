@@ -3,9 +3,9 @@ title: 快速开启HTTP服务器
 date: 2016-08-19 14:50:11
 key: 2016-08-1-14-50-11
 tags:
-- httpserver
+- HttpServer
 categories:
-- http
+- Http
 ---
 
 ## Python快速快速搭建Web服务器

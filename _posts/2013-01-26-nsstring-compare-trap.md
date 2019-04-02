@@ -3,9 +3,9 @@ title: iOS开发陷阱之NSString - compare
 date: 2013-01-26 15:42:11
 key: 2013-01-26-15-42-1
 tags:
-- nsstring
+- NSString
 categories:
-- ios
+- iOS
 ---
 
 NSString有多个compare相关方法：

@@ -3,9 +3,9 @@ title: Electron入坑笔记
 date: 2017-01-13 17:27:24
 key: 2017-01-13-17-27-24
 tags:
-- electron
+- Electron
 categories:
-- webapp
+- WebApp
 ---
 
 ## 前置条件

@@ -3,9 +3,9 @@ title: 再见，iOS 7
 date: 2016-08-19 18:23:55
 key: 2016-08-19-18-23-55
 tags:
-- ios7
+- iOS7
 categories:
-- ios
+- iOS
 ---
 
 ## 初遇

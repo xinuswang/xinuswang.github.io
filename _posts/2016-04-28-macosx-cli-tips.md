@@ -4,9 +4,9 @@ date: 2016-04-28 17:23:54
 key: 2016-04-28-17-23-54
 updated: 2016-04-28 17:23:54
 tags:
-- cli
+- CLI
 categories:
-- macos
+- MacOS
 ---
 
 ## sips批量处理图片

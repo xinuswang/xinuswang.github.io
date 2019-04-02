@@ -3,9 +3,9 @@ title: Markdown标记语言
 date: 2016-04-30 22:31:00
 key: 2016-04-30-22-31-00
 tags:
-- markdown
+- Markdown
 categories:
-- notes
+- Notes
 ---
 
 ## Markdown标记语言

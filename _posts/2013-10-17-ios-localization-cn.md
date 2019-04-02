@@ -3,9 +3,9 @@ title: iOS系统控件显示中文
 date: 2013-10-17 10:19:24
 key: 2013-10-17-10-19-24
 tags:
-- localization
+- Localization
 categories:
-- ios
+- iOS
 ---
 
 App中使用系统控件，一般默认会显示英文，即便系统的语言环境设置的是简体中文。这需要在App的工程中加入中文支持，这样在中文的系统环境下，调用的系统控件，比如“返回”而不是“Back”。

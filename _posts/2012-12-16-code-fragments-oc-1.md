@@ -3,10 +3,10 @@ title: iOS/Objective-C 开发常用代码(1)
 date: 2012-12-16 22:38:19
 key: 2012-12-16-22-38-19
 tags:
-- codefragments
-- objc
+- CodeFragments
+- ObjC
 categories:
-- ios
+- iOS
 ---
 
 ## 判断iOS设备是否是iPad

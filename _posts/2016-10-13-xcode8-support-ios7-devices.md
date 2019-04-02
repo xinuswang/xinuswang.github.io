@@ -3,9 +3,9 @@ title: 在XCode 8 中支持iOS 7 设备调试
 date: 2016-10-13 16:49:52
 key: 2016-10-13-16-49-52
 tags:
-- xcode8
+- XCode8
 categories:
-- xcode
+- XCode
 ---
 
 下载下方附件中的文件，解压并拷贝到如下路径，然后重启XCode 8即可。

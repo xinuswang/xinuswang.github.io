@@ -5,7 +5,7 @@ key: 2017-03-06-14-49-39
 tags:
 - otool
 categories:
-- macos
+- MacOS
 ---
 
 ## 查看动态链接库信息

@@ -3,10 +3,10 @@ title: 使用iOS 10 SDK编译的警告
 date: 2016-08-17 15:34:23
 key: 2016-08-17-15-34-23
 tags:
-- ios10
-- warnings
+- iOS10
+- Warnings
 categories:
-- ios
+- iOS
 ---
 
 ## 升级XCode 8 beta

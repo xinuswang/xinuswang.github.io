@@ -3,9 +3,9 @@ title: UIButton设置了UIControlStateSelected和UIControlStateHighlighted状态
 date: 2013-06-27 17:59:17
 key: 2013-06-27-17-59-17
 tags:
-- uibutton
+- UIButton
 categories:
-- ios
+- iOS
 ---
 
 通过代码增加如下设置:

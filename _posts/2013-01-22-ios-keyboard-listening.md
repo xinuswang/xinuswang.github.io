@@ -3,9 +3,9 @@ title: iOS全局处理键盘事件
 date: 2013-01-22 19:10:36
 key: 2013-01-22-19-10-36
 tags:
-- keyboard
+- Keyboard
 categories:
-- ios
+- iOS
 ---
 
 ## 注册监听键盘事件的通知

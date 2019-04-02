@@ -3,9 +3,9 @@ title: 语义化版本
 date: 2016-04-29 22:37:04
 key: 2016-04-29-22-37-04
 tags:
-- semver
+- SemVer
 categories:
-- notes
+- Notes
 ---
 
 ## 语义化版本

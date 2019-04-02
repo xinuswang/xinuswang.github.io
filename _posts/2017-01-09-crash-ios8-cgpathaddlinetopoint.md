@@ -3,10 +3,10 @@ title: iOS8上CGPathAddLineToPoint引起的crash
 date: 2017-01-09 14:35:30
 key: 2017-01-09-14-35-30
 tags:
-- ios8
-- crash
+- iOS8
+- Crash
 categories:
-- ios
+- iOS
 ---
 
 ## Crash日志

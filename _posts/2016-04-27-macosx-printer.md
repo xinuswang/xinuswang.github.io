@@ -3,9 +3,9 @@ title: Mac系统连接Windows打印机
 date: 2016-04-27 09:23:03
 key: 2016-04-27-09-23-03
 tags:
-- printer
+- Printer
 categories:
-- macos
+- MacOS
 ---
 
 公司的网络是组了域的，Windows PC访问打印机很容易，直接再地址栏键入打印机地址，就可以访问到，比如`\\GROUP_PRINTER_SERVER\CTU_F88W167_HP_m706n_PRT1001`。

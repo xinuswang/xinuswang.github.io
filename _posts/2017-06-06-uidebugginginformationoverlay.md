@@ -3,9 +3,9 @@ title: 悬浮窗口调试工具私有类UIDebuggingInformationOverlay
 date: 2017-06-06 16:22:39
 key: 2017-06-06-16-22-39
 tags:
-- debugging
+- Debugging
 categories:
-- ios
+- iOS
 ---
 
 ### 起因
