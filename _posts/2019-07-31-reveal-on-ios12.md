@@ -30,5 +30,5 @@ categories:
 1. 越狱工具：[**unc0ver**](https://github.com/pwn20wndstuff/Undecimus)；
 2. reveal2loader插件：[v1.0.3](/assets/dl/Reveal2Loader_1.0-3_iphoneos-arm.deb)；
 3. 可选的Shell工具：[FinalShell](http://www.hostbuf.com/), 提供类似MobaXterm功能的ssh客户端，可以方便的访问路径和拷贝文件；
-4. 越狱参考：https://www.abcydia.com/read-16031.html；
-5. 插件参考：https://www.52pojie.cn/forum.php?mod=viewthread&tid=951380&page=1。
+4. 越狱参考：[网页链接](https://www.abcydia.com/read-16031.html)；
+5. 插件参考：[网页链接](https://www.52pojie.cn/forum.php?mod=viewthread&tid=951380&page=1)。
